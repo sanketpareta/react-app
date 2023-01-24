@@ -1,0 +1,52 @@
+#button{
+  color: rgb(199, 248, 7);
+  background-color: black;
+  
+  width: 100px;
+}
+
+h1{
+  color: yellowgreen;
+}
+
+form{
+  color: rgb(233, 2, 2);
+  /* background-color: beige; */
+}
+
+body{
+  background-color: bisque;
+  margin: 200px;
+  display: flex;
+  direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  background-color: rgb(240, 138, 5);
+  padding: 50px;
+}
+
+
+#loginform{
+  background-color: #bdcddd;
+  padding: 20px;
+}
+
+
+.Login{
+  padding: 30px;
+  background-color: snow;
+}
+
+#div{
+  color: bisque;
+  margin-right: 20px;
+}
+
+#u1{
+  margin-top: 8px;
+  margin-right: 25px;
+  color: rgb(7, 220, 50);
+}
